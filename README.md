@@ -14,7 +14,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 **Please leave a star if you appreciate the effort.**
 
-**Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
+
 
 ## How to get an interview ?
 
