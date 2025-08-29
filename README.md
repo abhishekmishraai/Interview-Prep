@@ -1,7 +1,7 @@
 
 # Data-Science-Interview-Resources
 
-**Update : Drawing from extensive experience in interviews over the past few years, I recently decided to launch a dedicated channel to help individuals excel in Data Science. My goal is to create a comprehensive resource for anyone looking to revisit the basics before an upcoming interview or master the skills and in-depth knowledge required for both succeeding in Data Science interviews and applying Data Science in practice. This channel aims to provide a clear understanding of various techniques used on a day-to-day basis, covering a vast range of Machine Learning topics. Feel free to explore it here : <br/>[<img src="https://i.pinimg.com/736x/81/70/c0/8170c0b0cddec975b7c2553c20c1ab7e.jpg" width=70 height=70>](https://www.youtube.com/channel/UC2vHbm_9kzjrRamX8ArGdkA)**
+**Update : Drawing from extensive experience in interviews over the past few years, I recently decided to launch a dedicated channel to help individuals excel in Data Science. My goal is to create a comprehensive resource for anyone looking to revisit the basics before an upcoming interview or master the skills and in-depth knowledge required for both succeeding in Data Science interviews and applying Data Science in practice. This channel aims to provide a clear understanding of various techniques used on a day-to-day basis, covering a vast range of Machine Learning topics. 
 
 
 First of all, thanks for visiting this repo, congratulations on making a great career choice, I aim to help you land an amazing Data Science job that you have been dreaming for, by sharing my experience, interviewing heavily at both large product-based companies and fast-growing startups, hope you find it useful.
@@ -22,7 +22,6 @@ Every Resource I list here is personally verified by me and most of them I have 
   - Business Understanding(this is extremely critical across all seniority levels, but specifically for people with more than 3 years of experience)
   - SQL and Databases(very crucial)
   - Programming Skills(preferably in Python, if you know Scala, extra brownie points for some specific roles)
-  - Mathematics(Probability, Statistics, Linear Algebra and Calculus) - https://medium.com/@rbhatia46/essential-probability-statistics-concepts-before-data-science-bb787b7a5aef 
   - Machine Learning(this includes Deep Learning) and Model building
   - Data Structures and Algorithms(must and mandatory for top product based companies like FAANG)
   - Domain Understanding(Optional for most openings, though very critical for some roles based on company's requirement)
